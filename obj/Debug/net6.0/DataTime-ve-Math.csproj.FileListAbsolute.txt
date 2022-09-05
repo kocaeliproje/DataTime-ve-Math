@@ -1,0 +1,15 @@
+G:\Drive'ım\patika\CSharp\DataTime-ve-Math\bin\Debug\net6.0\DataTime-ve-Math.exe
+G:\Drive'ım\patika\CSharp\DataTime-ve-Math\bin\Debug\net6.0\DataTime-ve-Math.deps.json
+G:\Drive'ım\patika\CSharp\DataTime-ve-Math\bin\Debug\net6.0\DataTime-ve-Math.runtimeconfig.json
+G:\Drive'ım\patika\CSharp\DataTime-ve-Math\bin\Debug\net6.0\DataTime-ve-Math.dll
+G:\Drive'ım\patika\CSharp\DataTime-ve-Math\bin\Debug\net6.0\DataTime-ve-Math.pdb
+G:\Drive'ım\patika\CSharp\DataTime-ve-Math\obj\Debug\net6.0\DataTime-ve-Math.csproj.AssemblyReference.cache
+G:\Drive'ım\patika\CSharp\DataTime-ve-Math\obj\Debug\net6.0\DataTime-ve-Math.GeneratedMSBuildEditorConfig.editorconfig
+G:\Drive'ım\patika\CSharp\DataTime-ve-Math\obj\Debug\net6.0\DataTime-ve-Math.AssemblyInfoInputs.cache
+G:\Drive'ım\patika\CSharp\DataTime-ve-Math\obj\Debug\net6.0\DataTime-ve-Math.AssemblyInfo.cs
+G:\Drive'ım\patika\CSharp\DataTime-ve-Math\obj\Debug\net6.0\DataTime-ve-Math.csproj.CoreCompileInputs.cache
+G:\Drive'ım\patika\CSharp\DataTime-ve-Math\obj\Debug\net6.0\DataTime-ve-Math.dll
+G:\Drive'ım\patika\CSharp\DataTime-ve-Math\obj\Debug\net6.0\refint\DataTime-ve-Math.dll
+G:\Drive'ım\patika\CSharp\DataTime-ve-Math\obj\Debug\net6.0\DataTime-ve-Math.pdb
+G:\Drive'ım\patika\CSharp\DataTime-ve-Math\obj\Debug\net6.0\DataTime-ve-Math.genruntimeconfig.cache
+G:\Drive'ım\patika\CSharp\DataTime-ve-Math\obj\Debug\net6.0\ref\DataTime-ve-Math.dll
