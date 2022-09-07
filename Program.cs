@@ -37,6 +37,31 @@ Console.WriteLine(DateTime.Now.ToString("MM")); //04  ayn no
 Console.WriteLine(DateTime.Now.ToString("MMM")); //Apr  ay kısaltma
 Console.WriteLine(DateTime.Now.ToString("MMMM")); //April
 
+Console.WriteLine(DateTime.Now.ToString("yy")); //22  yıl
+Console.WriteLine(DateTime.Now.ToString("yyyy")); //yıl
+
+
+Console.WriteLine("***Math Kütüphanesi***"); 
+//Math Kütüphanesi
+Console.WriteLine(Math.Abs(-25)); // mutlak değer alır
+Console.WriteLine(Math.Sin(10)); // sin verir
+Console.WriteLine(Math.Cos(10)); 
+Console.WriteLine(Math.Tan(10)); 
+
+Console.WriteLine(Math.Ceiling(22.3)); // üste yuvarla 23 
+Console.WriteLine(Math.Round(22.3)); //alta veya üste yuvarla
+Console.WriteLine(Math.Round(22.7)); //alta veya üste yuvarla
+Console.WriteLine(Math.Floor(22.3)); // alta yuvarla 22
+
+Console.WriteLine(Math.Min(2,6)); //Min değeri verir
+Console.WriteLine(Math.Max(2,6)); //Min değeri verir
+
+Console.WriteLine(Math.Pow(3,4)); //3 üzeri 4 ü verir 81
+Console.WriteLine(Math.Sqrt(9)); //kare kök alır
+Console.WriteLine(Math.Log(9)); //Logaritmik 9 u verir
+Console.WriteLine(Math.Exp(3)); //e üzeri 3 ü verir
+Console.WriteLine(Math.Log10(10)); //10 sayısının log 10 tabanındaki karşılığını verir
+
 
 
 }
